@@ -1,0 +1,374 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/22006563/Downloads/R8_restored/simulation/modelsim
+Econtrol_unit
+Z1 w1731001657
+Z2 DPx4 work 2 r8 0 22 SZjL4l@iXK6Ia:1SWnhkU1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+R0
+Z7 8C:/Users/22006563/Downloads/R8_restored/R8.vhd
+Z8 FC:/Users/22006563/Downloads/R8_restored/R8.vhd
+l0
+L306 1
+ViYWW^2SnHI?f5h0d5z_ig3
+!s100 T:ZLjm?fj7W:h56BQB3dB1
+Z9 OV;C;2020.1;71
+31
+Z10 !s110 1731005095
+!i10b 1
+Z11 !s108 1731005095.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|C:/Users/22006563/Downloads/R8_restored/R8.vhd|
+Z13 !s107 C:/Users/22006563/Downloads/R8_restored/R8.vhd|
+!i113 1
+Z14 o-93 -work work
+Z15 tExplicit 1 CvgOpt 0
+Acontrol_unit
+R2
+R3
+R4
+R5
+R6
+DEx4 work 12 control_unit 0 22 iYWW^2SnHI?f5h0d5z_ig3
+!i122 1
+l322
+L313 188
+VPGETc4B:e6=h=Eo92E`kZ3
+!s100 6n[UQK?L^[K6?NaaLc^`o3
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Edatapath
+R1
+R2
+R3
+R4
+R5
+R6
+!i122 1
+R0
+R7
+R8
+l0
+L171 1
+VKj5CWVA70G12[3e8:o`c>2
+!s100 EfkaWSi^2_;8B_<EoZ]3`0
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Adatapath
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 datapath 0 22 Kj5CWVA70G12[3e8:o`c>2
+!i122 1
+l191
+L180 116
+VKBhRN9X8>KcCX5Al8gNK70
+!s100 C@iBXg34W^]o3Ozg>zBW>0
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ememram
+Z16 w1731003168
+R2
+R3
+R5
+R6
+R4
+!i122 2
+R0
+Z17 8C:/Users/22006563/Downloads/R8_restored/R8_tb.vhd
+Z18 FC:/Users/22006563/Downloads/R8_restored/R8_tb.vhd
+l0
+L22 1
+V[DnK<Id<C02`hFGcFa:=i1
+!s100 [E[^T8_mB=BzC4Z^9Vl^h2
+R9
+31
+Z19 !s110 1731005096
+!i10b 1
+R11
+Z20 !s90 -reportprogress|300|-93|-work|work|C:/Users/22006563/Downloads/R8_restored/R8_tb.vhd|
+!s107 C:/Users/22006563/Downloads/R8_restored/R8_tb.vhd|
+!i113 1
+R14
+R15
+Aa1
+R2
+R3
+R5
+R6
+R4
+DEx4 work 6 memram 0 22 [DnK<Id<C02`hFGcFa:=i1
+!i122 2
+l33
+L28 20
+VP_2ei:[YPK>>[jZRN<h5d1
+!s100 o96n`^k[zbKFnO]j3bQ5a3
+R9
+31
+R19
+!i10b 1
+R11
+R20
+Z21 !s107 C:/Users/22006563/Downloads/R8_restored/R8_tb.vhd|
+!i113 1
+R14
+R15
+Eprocessor
+R1
+R2
+R5
+R6
+!i122 1
+R0
+R7
+R8
+l0
+L509 1
+VX4d^]`O[@B2L]_NH7CzU=3
+!s100 :=0YECjZLf>XOLlG@;WaH2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aprocessor
+R2
+R5
+R6
+DEx4 work 9 processor 0 22 X4d^]`O[@B2L]_NH7CzU=3
+!i122 1
+l539
+L517 35
+V0z8`M;W2FWE?CI2[5fPf40
+!s100 z[Fa9]]?NhFPg>a^oBY9E1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Pr8
+R5
+R6
+!i122 1
+R1
+R0
+R7
+R8
+l0
+L32 1
+VSZjL4l@iXK6Ia:1SWnhkU1
+!s100 A0=K3<hO`NnSML0=ITe<93
+R9
+31
+b1
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Bbody
+R2
+R5
+R6
+!i122 1
+l0
+L78 1
+VGCLJDLIVNE]]j@9SJ1i]z0
+!s100 <H:n1]^;iI3OX7YOIgRW22
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Er8_tb
+R16
+R2
+R4
+R3
+R5
+R6
+!i122 2
+R0
+R17
+R18
+l0
+L59 1
+V_BFL_n^`?3KN_=IPK>:Ul2
+!s100 S83maN>k8HA2@VCVA6EJ>1
+R9
+31
+R19
+!i10b 1
+R11
+R20
+R21
+!i113 1
+R14
+R15
+Atb_architecture
+R2
+R4
+R3
+R5
+R6
+DEx4 work 5 r8_tb 0 22 _BFL_n^`?3KN_=IPK>:Ul2
+!i122 2
+l84
+L62 114
+VW]H21H0NDH0oVORn1fX5l1
+!s100 elFPd_cd5Jj;R3PIlk3L_3
+R9
+31
+R19
+!i10b 1
+R11
+R20
+R21
+!i113 1
+R14
+R15
+Ereg_bank
+R1
+R2
+R3
+R4
+R5
+R6
+!i122 1
+R0
+R7
+R8
+l0
+L134 1
+V8X<5S;j@0PQbEkWMgO<lG2
+!s100 K8:g8KEk3Qz:j]aOfEO?`0
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Areg_bank
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 reg_bank 0 22 8X<5S;j@0PQbEkWMgO<lG2
+!i122 1
+l145
+L140 20
+VfD8gE4zEaPGT8BCmO`iA]0
+!s100 kB7X2JglK2iHEVlOI@i;m0
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Eregister16
+R1
+R2
+R5
+R6
+!i122 1
+R0
+R7
+R8
+l0
+L108 1
+V1>U7[UMS^^]82nRS;<Y=K2
+!s100 l8Og9S9QNT]cj2N0jlaM@1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Aregister16
+R2
+R5
+R6
+DEx4 work 10 register16 0 22 1>U7[UMS^^]82nRS;<Y=K2
+!i122 1
+l115
+L114 11
+VCB:O2>dH;jK4hCbzT_A=R2
+!s100 P5K@a9[4=VSKQMhiV]`F>1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15

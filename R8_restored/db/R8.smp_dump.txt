@@ -1,0 +1,18 @@
+
+State Machine - |processor|control_unit:ctrl|EA
+Name EA.SintrW EA.Spush EA.Ssbrt EA.Sjmp EA.Swbk EA.Sst EA.Sld EA.Sldsp EA.Spop EA.Srts EA.Salu EA.Shalt EA.Srreg EA.Sfetch EA.Sidle 
+EA.Sidle 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+EA.Sfetch 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+EA.Srreg 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+EA.Shalt 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+EA.Salu 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+EA.Srts 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+EA.Spop 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+EA.Sldsp 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+EA.Sld 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+EA.Sst 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+EA.Swbk 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+EA.Sjmp 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+EA.Ssbrt 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+EA.Spush 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+EA.SintrW 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
